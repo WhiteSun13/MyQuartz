@@ -1,6 +1,11 @@
 @use "./base.scss";
 
-.page>#quartz-body .sidebar {
-	margin-top: 2rem;
+.quran-arabic {
+    font-family: "Uthmanic";
+    font-size: 2rem;
+    float: right;
+    text-align: right;
+    direction: rtl;
 }
+
 // put your custom CSS here!
