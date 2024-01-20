@@ -1,1 +1,0 @@
-[GitHub](https://github.com/WhiteSun13/MyObsidian/blob/main/<%tp.file.path(true).replace(/ /g, '%20')%>)
