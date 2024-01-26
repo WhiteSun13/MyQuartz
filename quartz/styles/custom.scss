@@ -9,4 +9,8 @@
     direction: rtl;
 }
 
+ul.overflow:after,ol.overflow:after {
+    background-color: transparent;
+}
+
 // put your custom CSS here!
